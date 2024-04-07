@@ -10,7 +10,9 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
+- I'm excited to share a demo of my latest project - a Spring Boot Student management system demo.(still working on frontend🚀)
+
+The process has been both challenging and incredibly rewarding, especially as I dove deep into Spring Boot. Stay tuned for more updates as I continue to build and refine this project in public! If your building a Spring Boot Project, lets connect and see if we can share knowledge. 🤖
 
 
 ## :star2: About the Project
